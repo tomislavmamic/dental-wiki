@@ -1,9 +1,7 @@
 ---
-
-layout: defaulture}
+layout: default
 title: Dental Wiki
 description: Quick links to clinical references, legal policies, industry insights, and onboarding guides.
-
 ---
 
 # Dental Wiki
